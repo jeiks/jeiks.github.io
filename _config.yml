@@ -21,17 +21,29 @@
 title: Prof. Jacson Rodrigues Correia-Silva
 email: jacson.silva@ufes.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Site dedicado ao aprendizado e seu compartilhamento com os demais.
+  Site dedicado ao aprendizado e ao compartilhamento do conhecimento com os demais.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jeiks.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeiks
 github_username:  jeiks
 
+twitter_url: https://twitter.com/jeiks
+#facebook_url:
+#googleplus_url:
+#instagram_url:
+linkedin_url: https://www.linkedin.com/in/jacson-correia-silva
+github_url: https://github.io/jeiks
+#stackoverflow_url:
+#pinterest_url:
+#slack_url:
+#dribbble_url:
+
 # Build settings
 #theme: minima
 remote_theme: chrisbobbe/jekyll-theme-prologue
-plugins:
-  - jekyll-feed
+collections: [sections]
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
