@@ -1,0 +1,3 @@
+[submodule "cnn-explainer-to-copycat"]
+	path = cnn-explainer-to-copycat
+	url = git@github.com:jeiks/cnn-explainer-to-copycat.git
