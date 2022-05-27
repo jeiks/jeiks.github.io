@@ -2,6 +2,7 @@
 layout: page
 title: Sobre
 permalink: /about/
+order: 4
 ---
 
-Um pensador que gosta de aprender e compartilhar o que aprendeu...
+Um aprendiz que gosta de compartilhar seu conhecimento e aprender com os demais.

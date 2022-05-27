@@ -1,0 +1,26 @@
+- description: Cracking a simple password in a simple program
+  url: https://github.com/jeiks/cracking_a_simple_password
+
+- description: Using Jack and PulseAudio to apply effects on your microphone.
+  url: https://github.com/jeiks/jack_and_pulseaudio
+
+- description: Different Tux - My Plymouth's Theme
+  url: https://github.com/jeiks/plymouth-theme
+
+- description: Raspberrypi tricks
+  url: https://github.com/jeiks/raspberrypi
+
+- description: Just saving useFUL(less) browser tabs to free up memory
+  url: https://github.com/jeiks/useful_tabs
+
+- description: Firefox WebExtension to translate the selected text
+  url: https://github.com/jeiks/translate-to-me
+
+- description: NetControl - painel de controle de servidores Debian
+  url: https://github.com/jeiks/netcontrol
+
+- description: Campo Minado para jogar no terminal
+  url: https://github.com/jeiks/campoMinado
+
+- description: Jogo desenvolvido em meu mestrado para jogar no celular usando bluetooth
+  url: https://github.com/jeiks/crazypac
