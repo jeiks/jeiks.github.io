@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other projects
+title: Other projects (outros projetos)
 permalink: /other
 order: 3
 ---
