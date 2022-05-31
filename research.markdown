@@ -23,7 +23,7 @@ order: 2
     <li>Sistemas de detecção de intrusão com técnicas de inteligência artificial
         <ul>
             <li><a href='https://www.locus.ufv.br/handle/123456789/2621'>Dissertação</a></li>
-            <li><a href='https://github.com/jeiks/gdfann'>Código atualizado e distribuído</i></a></li>
+            <li><a href='https://github.com/jeiks/gdfann'>Código atualizado e distribuído</a></li>
         </ul>
     </li>
     <li>Simulating robotic cars using time-delay neural networks
