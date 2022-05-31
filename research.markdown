@@ -20,6 +20,12 @@ order: 2
             <li style='margin-left: 30px'><a href='https://github.com/jeiks/copycat-cnn-explainer'>Interactive visualization of a Oracle and a Copycat models</a></li>
         </ul>
     </li>
+    <li>Sistemas de detecção de intrusão com técnicas de inteligência artificial
+        <ul>
+            <li><a href='https://www.locus.ufv.br/handle/123456789/2621'>Dissertação</a></li>
+            <li><a href='https://github.com/jeiks/gdfann'>Código atualizado e distribuído</i></a></li>
+        </ul>
+    </li>
     <li>Simulating robotic cars using time-delay neural networks
         <ul>
             <li><a href='https://doi.org/10.1109/IJCNN.2016.7727342'>Paper</a></li>
