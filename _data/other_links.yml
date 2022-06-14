@@ -1,6 +1,9 @@
 - description: Cracking a simple password in a simple program
   url: https://github.com/jeiks/cracking_a_simple_password
 
+- description: Explanation of Pointers in **C**
+  url: https://github.com/jeiks/pointers
+
 - description: Using Jack and PulseAudio to apply effects on your microphone.
   url: https://github.com/jeiks/jack_and_pulseaudio
 
@@ -24,3 +27,6 @@
 
 - description: Jogo desenvolvido em meu mestrado para jogar no celular usando bluetooth
   url: https://github.com/jeiks/crazypac
+
+- description: Explicação de Ponteiros em **C**
+  url: https://github.com/jeiks/pointers
