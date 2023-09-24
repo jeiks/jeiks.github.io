@@ -9,11 +9,3 @@ order: 1
   <br>Abraços!</p>
 </div>
 
-<dl style='font-size: 22px;'>
-    <dt>Se está cursando alguma disciplina comigo esse semestre, talvez esteja procurando esses links:</dt>
-    <ul>
-        <li><a href='http://www.jeiks.net/fundpweb'>Fundamentos de Progamação WEB (2022/1)</a></li>
-        <li><a href='http://www.jeiks.net/prog1'>Programação 1 (2022/1)</a></li>
-    </ul>
-</dl>
-
