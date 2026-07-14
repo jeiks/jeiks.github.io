@@ -1,0 +1,25 @@
+---
+interface Props {
+    overline: string;
+    title: string;
+    description?: string;
+}
+
+const { overline, title, description } = Astro.props;
+---
+
+<p class="text-sm uppercase tracking-[0.35em] text-slate-500">
+    {overline}
+</p>
+
+<h2 class="mt-4 text-5xl font-bold tracking-tight">
+    {title}
+</h2>
+
+{
+description && (
+<p class="mt-6 max-w-3xl text-lg text-slate-600 leading-relaxed">
+    {description}
+</p>
+)
+}
